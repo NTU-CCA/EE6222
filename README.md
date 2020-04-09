@@ -4,7 +4,8 @@
 
 #### Lecturers: Prof. [Ponnuthurai Nagaratnam Suganthan](https://www.ntu.edu.sg/home/epnsugan/) and Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
 
-<table><thead><tr><th>属性名</th><th>属性值</th><th>例子</th><th>描述</th></tr></thead><tbody><tr><td rowspan="3">merge</td><td>boolean</td><td>merge: true</td><td>开启合并，并根据 当前列 相同值 自动合并</td></tr><tr><td>string</td><td>merge: 'name'</td><td>开启合并，并根据 指定列 相同值 自动合并</td></tr><tr><td>array</td><td>merge: ['name', 'type']</td><td>开启合并，并先根据 name值 分组后，再以 type值 相同的合并对应行<br>注：数组无数量限制</td></tr></tbody></table>
+<table><thead><tr><th>Part</th><th>#</th><th>Content</th><th>Lecture Note</th></tr></thead><tbody><tr><td rowspan="3">Part 1</td><td>Topic - 01</td><td>Overview of Image Analysis</td><td>[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN1_2019.pdf)]</td>
+</tr><tr><td>string</td><td>merge: 'name'</td><td>开启合并，并根据 指定列 相同值 自动合并</td></tr><tr><td>array</td><td>merge: ['name', 'type']</td><td>开启合并，并先根据 name值 分组后，再以 type值 相同的合并对应行<br>注：数组无数量限制</td></tr></tbody></table>
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
