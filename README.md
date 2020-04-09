@@ -7,8 +7,8 @@
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
 |**Part 1**|
-|Topic - 01|Overview of Image Analysis|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN1_2019.pdf)] Pages 01-11|
-|Topic - 02|Image Capturing|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN2_2019.pdf)] Pages 12-20|
+|Topic - 01|Overview of Image Analysis|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN1_2019.pdf)]|
+|Topic - 02|Image Capturing|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN2_2019.pdf)]|
 |Topic - 03|Image Formation|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN3_2019.pdf)]|
 |Topic - 04|Preprocessing of Images|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN4_2019.pdf)]|
 |Topic - 05|Image Filtering|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN5_2019.pdf)]|
@@ -20,6 +20,10 @@
 |Topic - 11|Feature Extraction 1|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-4.pdf)]|
 |Topic - 12|Pattern Recognition|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|
 |**Part 1**|
-
+|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|
+|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|
+|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|
+|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|
+|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
