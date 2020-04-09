@@ -1,6 +1,6 @@
 |![image](https://github.com/NTU-CCA/EE6222/blob/master/logo.png)|
 |---|
-# EE6222 Machine Vision, Fall 2018
+# EE6222 - Machine Vision, Fall 2018
 
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
