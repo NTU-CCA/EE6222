@@ -2,7 +2,7 @@
 |---|
 # EE6222 Machine Vision, Fall 2018
 
-#### Lecturers: Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO) and Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
+#### Lecturers: Prof. [Ponnuthurai Nagaratnam Suganthan](https://www.ntu.edu.sg/home/epnsugan/) and Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
