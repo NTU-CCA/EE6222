@@ -6,7 +6,7 @@
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
-|Part 1| | |
+|Part 1|
 |Topic - 01|Overview of Image Analysis|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN1_2019.pdf)]|
 |Topic - 02|Hopfield Neural Netwrok and Bi-Directional Associative Memory|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN2_2019.pdf)]|
 |Topic - 03|Self-Organizing Map|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN3_2019.pdf)]|
