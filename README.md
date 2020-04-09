@@ -18,11 +18,11 @@
 |Topic - 11|Feature Extraction 2|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-2.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 12|Pattern Recognition|[[Slide 1](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-II-2SPP-1.pdf)] [[Slide 2](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-II-2SPP-2.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |**Part 2**|
-|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
-|Lecture - 02|Projective Geometry|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
-|Lecture - 03|SVD|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
-|Lecture - 04|3D Vision: Part 1|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
-|Lecture - 05|3D Vision: Part 2|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
-|Lecture - 06|Additional Notes|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
+|Lecture - 01|Stereo Vision|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/Part2%20%5B1%5D%20Stereo%20Vision.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
+|Lecture - 02|Projective Geometry|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/Part2%20%5B2%5D%20Projective%20Geometry.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
+|Lecture - 03|SVD|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/Part2%20%5B3%5D%20SVD.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
+|Lecture - 04|3D Vision: Part 1|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/Part2%20%5B4%5D%203D%20Vision%201.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
+|Lecture - 05|3D Vision: Part 2|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/Part2%20%5B5%5D%203D%20Vision%202.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
+|Lecture - 06|Additional Notes|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/Part2%20%5B6%5D%20Additional%20Notes.pdf)]|Prof. [Wang Han](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=hw)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
