@@ -1,5 +1,5 @@
-|![image](https://github.com/NTU-CCA/EE6222/blob/master/logo.png)|
-|---|
+*(NOTE: All the content was found on the Internet.)*
+
 # EE6222 - Machine Vision
 
 ### Learning Objective:
